@@ -1,5 +1,5 @@
 # Seduction_OS
-Neural Seduction System
+
 Goal of Seduction OS:
 To naturally seduce a woman in "Boss" fashion, and have time, energy, and passive income.
 
@@ -38,4 +38,5 @@ This enables "Knowledge Branches" of Neural Seduction for the woman to be actual
 This new knowledge of psychology and the nervous system gives you "Knowledge Branches" into sales for online businesses because you know about seduction/persuasion. 
 A new "Knowledge Branch" grows for buying and selling stocks, because you know yourself through inner game, you know psychology for persuasion, which all market transactions are built on.
 
-Please Click The Link Below To Get Started Seducing Women.
+We are using HTML, CSS, And Javascript for portablity. Brackets For The Editor. And https://www.twitch.tv/ for live coding. And last google doc for visualization.
+Direct Message Us On How to start coding this project with us.
